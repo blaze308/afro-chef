@@ -1,7 +1,8 @@
 .container {
-  height: calc(100vh - 100px);
-  background-color: #222;
+  height: calc(100vh - 300px);
+  background-color: slategrey;
   display: flex;
+  
 }
 
 .item {
@@ -22,16 +23,16 @@
 }
 
 .title {
-  font-size: 18px;
-  color: #b7903c;
+  font-size: 20px;
+  color: blanchedalmond;
 }
 
 .text {
-  color: lightgray;
+  color: aliceblue;
 }
 
 .motto {
-  color: rgb(211, 211, 211);
+  color: aliceblue;
 }
 
 @media screen and (max-width: 480px) {

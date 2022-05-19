@@ -21,6 +21,10 @@
   color: #666;
 }
 
+.image {
+  border-radius: 20px;
+}
+
 .desc {
   text-align: center;
   color: #777;
